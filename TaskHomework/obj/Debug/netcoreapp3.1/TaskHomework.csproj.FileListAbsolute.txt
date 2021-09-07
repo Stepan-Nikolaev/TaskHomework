@@ -1,0 +1,12 @@
+D:\Степапка\DEX\Домашние задания\TaskHomework\TaskHomework\bin\Debug\netcoreapp3.1\TaskHomework.exe
+D:\Степапка\DEX\Домашние задания\TaskHomework\TaskHomework\bin\Debug\netcoreapp3.1\TaskHomework.deps.json
+D:\Степапка\DEX\Домашние задания\TaskHomework\TaskHomework\bin\Debug\netcoreapp3.1\TaskHomework.runtimeconfig.json
+D:\Степапка\DEX\Домашние задания\TaskHomework\TaskHomework\bin\Debug\netcoreapp3.1\TaskHomework.runtimeconfig.dev.json
+D:\Степапка\DEX\Домашние задания\TaskHomework\TaskHomework\bin\Debug\netcoreapp3.1\TaskHomework.dll
+D:\Степапка\DEX\Домашние задания\TaskHomework\TaskHomework\bin\Debug\netcoreapp3.1\TaskHomework.pdb
+D:\Степапка\DEX\Домашние задания\TaskHomework\TaskHomework\obj\Debug\netcoreapp3.1\TaskHomework.csprojAssemblyReference.cache
+D:\Степапка\DEX\Домашние задания\TaskHomework\TaskHomework\obj\Debug\netcoreapp3.1\TaskHomework.AssemblyInfoInputs.cache
+D:\Степапка\DEX\Домашние задания\TaskHomework\TaskHomework\obj\Debug\netcoreapp3.1\TaskHomework.AssemblyInfo.cs
+D:\Степапка\DEX\Домашние задания\TaskHomework\TaskHomework\obj\Debug\netcoreapp3.1\TaskHomework.dll
+D:\Степапка\DEX\Домашние задания\TaskHomework\TaskHomework\obj\Debug\netcoreapp3.1\TaskHomework.pdb
+D:\Степапка\DEX\Домашние задания\TaskHomework\TaskHomework\obj\Debug\netcoreapp3.1\TaskHomework.genruntimeconfig.cache
